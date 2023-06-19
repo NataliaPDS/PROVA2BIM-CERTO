@@ -104,6 +104,7 @@
             this.button2.TabIndex = 6;
             this.button2.Text = "Cancelar";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // textBox1
             // 
@@ -139,7 +140,7 @@
             "Dinheiro",
             "Pix",
             "Cartão"});
-            this.comboBox2.Location = new System.Drawing.Point(142, 178);
+            this.comboBox2.Location = new System.Drawing.Point(142, 183);
             this.comboBox2.Name = "comboBox2";
             this.comboBox2.Size = new System.Drawing.Size(172, 21);
             this.comboBox2.TabIndex = 10;

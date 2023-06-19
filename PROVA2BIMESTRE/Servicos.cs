@@ -33,10 +33,7 @@ namespace PROVA2BIMESTRE
             double limpeza = 50.00;
             double trocaPeca = 200.00;
 
-            if(formatacao ==)
-            {
-
-            }
+            
             double formDinheiro1 = (formatacao * 20) / 100;
             double formPix1 = (formatacao * 10) / 100;
             double formCartao1 = (formatacao * 0) / 100;
@@ -60,6 +57,11 @@ namespace PROVA2BIMESTRE
         }
 
         private void comboBox2_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void button2_Click(object sender, EventArgs e)
         {
             
         }
