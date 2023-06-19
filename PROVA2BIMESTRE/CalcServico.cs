@@ -9,7 +9,7 @@ namespace PROVA2BIMESTRE
 {
     internal class CalcServico
     {
-        private string computador;
+        /*private string computador;
         private string nome;
         private double opcao1;
         private double opcao2;
@@ -26,6 +26,6 @@ namespace PROVA2BIMESTRE
         public double Calculo(double opcao1, double opcao2)
         {
 
-        }
+        }*/
     }
 }
